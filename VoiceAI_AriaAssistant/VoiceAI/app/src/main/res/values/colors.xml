@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0F0F1A</color>
+    <color name="bg_surface">#1A1A2E</color>
+    <color name="bg_card">#16213E</color>
+    <color name="accent_purple">#BB86FC</color>
+    <color name="accent_purple_dark">#9B5DE5</color>
+    <color name="accent_green">#03DAC6</color>
+    <color name="accent_blue">#4FC3F7</color>
+    <color name="text_primary">#EAEAEA</color>
+    <color name="text_secondary">#9E9EBE</color>
+    <color name="text_hint">#666688</color>
+    <color name="bubble_user">#9B5DE5</color>
+    <color name="bubble_ai">#1E1E3A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="error">#CF6679</color>
+</resources>
